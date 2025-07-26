@@ -1,11 +1,24 @@
-# nobel-prize-data-analysis
+# Nobel Prize Data Analysis
 
-Day 79/100 - Today we're going to analyse a dataset on the past winners of the Nobel Prize. Let's see what patterns we can uncover in the past Nobel laureates and what can we learn about the Nobel prize and our world more generally.
+**Day 79/100** — Today we're diving into a dataset of past Nobel Prize winners.  
+Let's explore what patterns exist among Nobel laureates and what this can tell us about the prize — and the world — over time.
 
-We'll look at:
--Nobel Prize category breakdowns
--Laureate age, country of origin, affiliated organization, etc
--How organizations stack up against each other
--How countries stack up against each other
--And more!
+---
+
+## What We'll Explore
+
+- Category breakdowns
+- Laureate age, country of origin, and affiliated organization
+- How organizations stack up against each other
+- How countries compare in terms of Nobel success
+- And more insights as we dig deeper into the data
+
+---
+
+## Key Tools
+
+- Python (Pandas, NumPy)
+- Jupyter Notebook / Colab
+- Matplotlib / Seaborn for visualization
+
 
